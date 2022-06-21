@@ -1,0 +1,4 @@
+name: 直链规则添加
+
+rules:
+- DOMAIN-SUFFIX,xrmn5.cc,DIRECT
